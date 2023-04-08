@@ -3,7 +3,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Noto Serif TC", serif;;
   color: #444;
 }
 
@@ -24,7 +24,7 @@ h4,
 h5,
 h6,
 .font-primary {
-  font-family: "Raleway", sans-serif;
+  font-family: "Noto Serif TC", serif;;
 }
 
 /*--------------------------------------------------------------
@@ -440,6 +440,7 @@ h6,
 #hero p {
   width: 80%;
   animation-delay: 0.4s;
+    font-size: 24px;
   color: #fff;
 }
 
